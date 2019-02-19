@@ -4,8 +4,6 @@ svartalf -Added-
 Orch
 Skeleton
 Rese -Added-
-<<<<<<< HEAD
 Zombie
-=======
 Ghoul
->>>>>>> d240860846c7ab4aff1657605a43ff2c1291f9b0
+
