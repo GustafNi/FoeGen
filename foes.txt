@@ -4,3 +4,4 @@ svartalf -Added-
 Orch
 Skeleton
 Rese -Added-
+Ghoul
